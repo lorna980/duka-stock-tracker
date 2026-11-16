@@ -1,4 +1,4 @@
-# DukaStock Kenya — SME Inventory & M-Pesa Sales Tracker
+8# DukaStock Kenya — SME Inventory & M-Pesa Sales Tracker
 
 A lightweight, offline-first inventory and point-of-sale web application designed for small retail shops (*dukas*) in Kenya.
 
@@ -21,4 +21,3 @@ Many micro and small retailers in Kenya rely on paper notebooks to track daily i
 2. Start **Apache** and **MySQL** in the XAMPP Control Panel.
 3. Open `http://localhost/phpmyadmin`, create a database named `dukastock_db`, and import `database.sql`.
 4. Visit `http://localhost/duka-stock-tracker/` in your browser.
-5.
